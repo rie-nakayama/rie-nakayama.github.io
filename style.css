@@ -21,7 +21,7 @@ footer h3 {
     color: rgba(25, 25, 97, 0.733);
     font-family: 'Tajawal', sans-serif;
     font-weight: lighter;
-    font-size: 30px;
+    font-size: 1.5vw;
     line-height: 1.0;
     letter-spacing: 0.5px;
 }
@@ -32,7 +32,7 @@ footer {
 
 .bio h1 {
     font-family: 'Cantarell', sans-serif;;
-    font-size: 60vm;
+    font-size: 3vw;
     font-weight: lighter;
     line-height: 1.0;
     letter-spacing: 0.5px;
@@ -44,7 +44,7 @@ footer {
 h2 {
     font-family: 'Tajawal', sans-serif;
     font-weight: lighter;
-    font-size: 30vm;
+    font-size: 2vw;
     line-height: 1.0;
     letter-spacing: 0.5px;
     color: rgba(25, 25, 97, 0.733);
@@ -58,7 +58,7 @@ nav ul {
 
  footer  {
     color: rgba(23, 23, 102, 0.733);
-    font-size: 10vm;
+    font-size: 1.25vw;
     text-decoration: none;
     font-family: 'Tajawal', sans-serif;
     line-height: 0.75;
@@ -73,7 +73,7 @@ nav li a {
     color: rgba(25, 25, 97, 0.733);
     text-align: center;
     padding: 0px 14px 16px 0px;
-    font-size: 60vm;
+    font-size: 1.5vw;
     letter-spacing: 0.5px;
     text-decoration: none;
     font-family: 'Tajawal', sans-serif;
@@ -133,7 +133,7 @@ nav li a:hover {
     color: rgba(25, 25, 97, 0.733);
     font-family: 'Tajawal', sans-serif;
     font-weight: bold;
-    font-size: 80vn;
+    font-size: 2vw;
     position: absolute;
     top: 50%;
     left: 50%;
